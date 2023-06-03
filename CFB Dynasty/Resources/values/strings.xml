@@ -1,0 +1,24 @@
+<resources>
+  <string name="app_name">CFB_Dynasty</string>
+  <string name="action_settings">Settings</string>
+  <string name="title">CFB Dynasty</string>
+  <string name="play_button">Play</string>
+  <string name="reset_button">Reset Stats</string>
+  <string name="no_save_toast">No save currently exists!</string>
+  <string name="reset_toast">Save Reset!</string>
+  <string name="select_a_team">Select a Team</string>
+  <string name="select_button">Select</string>
+  <string name="simulate_button">Simulate</string>
+  <string name="stats_button">Stats</string>
+  <string name="continue_button">Continue</string>
+  <string name="stats_title">Stats</string>
+  <string name="currentseason_stats">Current Season Stats</string>
+  <string name="alltime_stats">All-Time Stats</string>
+  <string name="record">Record:</string>
+  <string name="score_differential">Score Diff.:</string>
+  <string name="championships">Championships:</string>
+  <string name="playoffs_title">Playoffs</string>
+  <string name="championship_title">Championship</string>
+  <string name="champion">Congratulations! You are the Champion!</string>
+  <string name="final_stats">Final Season Stats</string>
+</resources>
